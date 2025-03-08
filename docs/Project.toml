@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Ollama = "e94efde8-489f-46d3-84ad-eb8df9426c2b"
